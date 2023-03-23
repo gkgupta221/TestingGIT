@@ -10,3 +10,5 @@ hint:
 hint: 	git branch -m <name>
 Initialized empty Git repository in /home/gkgupta/Desktop/TestingGit/.git/
 
+ (use "git rm --cached <file>..." to unstage)
+ (use "git restore --staged <file>..." to unstage)
