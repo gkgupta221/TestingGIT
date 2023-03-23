@@ -12,3 +12,16 @@ Initialized empty Git repository in /home/gkgupta/Desktop/TestingGit/.git/
 
  (use "git rm --cached <file>..." to unstage)
  (use "git restore --staged <file>..." to unstage)
+ 
+ 
+ If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+ 
+ 
